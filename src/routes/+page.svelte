@@ -94,7 +94,7 @@
 
 <main class="bg-yellow-100 min-h-screen py-8 font-retro text-green-800">
 	<div class="container mx-auto px-4 max-w-2xl">
-		<h1 class="text-4xl font-bold text-center mb-8 retro-text-shadow">Bisa</h1>
+		<h1 class="text-4xl font-bold text-center mb-8 retro-text-shadow">Bisa /</h1>
 		
 		<!-- Japan Section -->
 		<div class="bg-white border-4 border-green-800 rounded-lg p-6 mb-6 retro-box-shadow">
